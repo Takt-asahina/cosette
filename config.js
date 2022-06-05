@@ -3,10 +3,10 @@ import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 
 global.owner = [
-  ['59172945992', 'FG98', true], 
-  ['5492622689586'], 
-  ['5493885839638'], 
- ['573125484672'] 
+  ['522431284029', 'ᴀsᴀʜɪɴᴀ ᴛᴀᴋᴛ', true], 
+  ['522431067355', '✯𝐂𝐨𝐬𝐞𝐭𝐭𝐞✯', true],
+  ['17146121800', ':𝓐𝓻𝓭 𝓜𝓮𝓽𝓮𝓸𝓻', true],
+ ['522431268546'] 
   
 ] //Numeros de owner 
 
@@ -34,15 +34,15 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = 'dylux-bot'
-global.author = '@fg98._'
+global.packname = '✯𝐂𝐨𝐬𝐞𝐭𝐭𝐞 -𝗕𝗢𝗧'
+global.author = '𝔸ℕ𝕀𝕄𝔼𝕊 𝟚.𝟘'
 global.igfg = '\n▢ Sígueme en Instagram\nhttps://www.instagram.com/fg98._\n' 
 global.fgsc = 'https://github.com/FG98F/dylux-fg' 
 global.fgyt = 'https://youtube.com/fg98f'
 
 global.wait = '*⌛ _Cargando..._ ▬▬▬▭*'
 
-global.multiplier = 69 // Cuanto más alto, más difícil subir de nivel
+global.multiplier = 999 // Cuanto más alto, más difícil subir de nivel
 
 
 let file = fileURLToPath(import.meta.url)
